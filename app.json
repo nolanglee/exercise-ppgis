@@ -1,0 +1,9 @@
+{
+  "name":"exercise-ppgis",
+  "description":"study",
+  "scripts":{},
+  "env":{},
+  "addons":[
+    "cleardb"
+  ]
+}
